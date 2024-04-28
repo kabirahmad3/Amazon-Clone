@@ -483,7 +483,7 @@ span:hover{
     top: 150px;
 }
 .sign{
-    height: 150px;
+    height: 80px;
     width: 300px;
     display: flex;
     flex-direction: column;
